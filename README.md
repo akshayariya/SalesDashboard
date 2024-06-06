@@ -13,6 +13,3 @@ This repository contains a Power BI sales dashboard project, including the Power
 1. Download the `.pbix` file.
 2. Open it in Power BI Desktop.
 3. Ensure that the dataset files (`Details.csv` and `Orders.csv`) are placed in the `data/` folder relative to the `.pbix` file location.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
